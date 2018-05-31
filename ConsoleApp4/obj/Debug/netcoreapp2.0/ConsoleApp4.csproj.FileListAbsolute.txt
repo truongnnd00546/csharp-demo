@@ -9,3 +9,14 @@ C:\Users\truon\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Con
 C:\Users\truon\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfo.cs
 C:\Users\truon\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.dll
 C:\Users\truon\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.deps.json
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.json
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.runtimeconfig.dev.json
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\ConsoleApp4.pdb
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csprojAssemblyReference.cache
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.AssemblyInfo.cs
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.dll
+C:\RiderProjects\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\ConsoleApp4.pdb

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\truon\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+    "projectUniqueName": "C:\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
     "projectName": "ConsoleApp4",
-    "projectPath": "C:\\Users\\truon\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
-    "outputPath": "C:\\Users\\truon\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\obj\\",
+    "projectPath": "C:\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+    "outputPath": "C:\\RiderProjects\\ConsoleApp4\\ConsoleApp4\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,6 +31,10 @@
           "target": "Package",
           "version": "[2.0.0, )",
           "autoReferenced": true
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.11, )"
         }
       },
       "imports": [
